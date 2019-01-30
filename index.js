@@ -1,2 +1,4 @@
-var i = 0
-alert(I+1)
+var i = 1
+var j = 2
+alert(i+j)
+
