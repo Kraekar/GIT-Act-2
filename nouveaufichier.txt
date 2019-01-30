@@ -2,3 +2,5 @@ Ici un fichier créé directement via vim sans touch
 
 Une ligne rajoutée ici
 Une autre ligne pour le test de branches
+
+Ligne sur branche de test
