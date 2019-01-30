@@ -1,6 +1,13 @@
 Ici un fichier créé directement via vim sans touch
 
 Une ligne rajoutée ici
+<<<<<<< HEAD
 Une autre ligne pour le test de branches
 
 Une ligne spécifique à la branche master
+=======
+
+
+
+Ligne sur branche de test
+>>>>>>> multiplication
