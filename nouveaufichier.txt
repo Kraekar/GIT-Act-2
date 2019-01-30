@@ -1,1 +1,3 @@
 Ici un fichier créé directement via vim sans touch
+
+Une ligne rajoutée ici
